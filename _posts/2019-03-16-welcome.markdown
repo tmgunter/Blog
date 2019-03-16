@@ -1,0 +1,24 @@
+---
+layout: post
+title:  "Welcome to my blog!"
+date:   2019-03-16 10:47:50 -0700
+categories: welcome sustainability code
+---
+## Welcome! ##
+
+![pictureOfMe](/assets/images/Yosemite_Far.jpg)
+
+This is the place where you can connect with me, see the lastest projects i'm working on, and learn (and discuss!) sustainability. I'll provide regular updates and talk about things such as:
+
+* Programming
+  - How-to guides, useful frameworks, different languages, data science, machine learning etc.
+* Sustainability
+  - Expect things like composting (even if it isn't for your own garden), reducing waste, plastic reduction in your home, and more.
+* Gardening
+* Electric Vehicles and other efforts in the transportation space
+* Hackathons
+  - Particularly ones that I am involved in and tips for being successful in your own hack team
+* Projects I am working on as they progress
+* Hiking and nature
+
+
