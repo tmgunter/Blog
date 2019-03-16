@@ -6,6 +6,9 @@ permalink: /about/
 
 A blog written and maintained by Tyler Gunter who enjoys writing about programming and sustainability efforts.
 
+![pictureOfMe](/assets/images/Yosemite_Waterfall.jpg)
+
+
 You can find my work at GitHub:
 [tmgunter][github]
 
