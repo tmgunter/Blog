@@ -6,7 +6,7 @@ categories: welcome sustainability code
 ---
 ## Welcome! ##
 
-![pictureOfMe](/assets/images/Yosemite_Far.jpg)
+![pictureOfMe](/img/Yosemite_Far.jpg)
 
 This is the place where you can connect with me, see the lastest projects i'm working on, and learn (and discuss!) sustainability. I'll provide regular updates and talk about things such as:
 
@@ -20,5 +20,17 @@ This is the place where you can connect with me, see the lastest projects i'm wo
   - Particularly ones that I am involved in and tips for being successful in your own hack team
 * Projects I am working on as they progress
 * Hiking and nature
+
+```javascript
+public void Me() {
+  while(true)
+  {
+    Code();
+    Compost();
+    Garden();
+    Learn();
+  }
+}
+```
 
 
