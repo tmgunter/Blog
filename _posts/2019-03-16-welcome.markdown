@@ -8,7 +8,7 @@ categories: welcome sustainability code
 
 ![pictureOfMe](/img/Yosemite_Far.jpg)
 
-This is the place where you can connect with me, see the lastest projects i'm working on, and learn (and discuss!) sustainability. I'll provide regular updates and talk about things such as:
+This is the place where you can connect with me, see the lastest projects I'm working on, and learn (and discuss!) sustainability. I'll provide regular updates and talk about things such as:
 
 * Programming
   - How-to guides, useful frameworks, different languages, data science, machine learning etc.
